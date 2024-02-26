@@ -11,21 +11,16 @@ mkdir -vp /data/.cache \
   /data/models/GFPGAN \
   /data/models/RealESRGAN \
   /data/models/LDSR \
-  /data/models/VAE
+  /data/models/VAE \
+  /data/models/Lora \
+  /data/models/ControlNet
 
 echo "Downloading, this might take a while..."
 
-aria2c -x 10 --disable-ipv6 --input-file /docker/links.txt --dir /data/models --continue
+aria2c -x 10 --disable-ipv6 --input-file /docker/links.txt --dir /data --continue
 
-echo "Checking SHAs..."
-
-parallel --will-cite -a /docker/checksums.sha256 "echo -n {} | sha256sum -c"
-
-cat <<EOF
-By using this software, you agree to the following licenses:
-https://github.com/AbdBarho/stable-diffusion-webui-docker/blob/master/LICENSE
-https://github.com/CompVis/stable-diffusion/blob/main/LICENSE
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/blob/master/LICENSE.txt
-https://github.com/invoke-ai/InvokeAI/blob/main/LICENSE
-And licenses of all UIs, third party libraries, and extensions.
-EOF
+# CN_DIR=/data/config/auto/extensions/sd-webui-controlnet
+# git -C "$CN_DIR" pull || git clone https://github.com/Mikubill/sd-webui-controlnet "$CN_DIR"
+PL_DIR=/data/config/auto/extensions/sd-webui-api-payload-display
+git -C "$PL_DIR" pull || git clone https://github.com/huchenlei/sd-webui-api-payload-display "$PL_DIR"
+aria2c -x 10 --disable-ipv6 --input-file /docker/controlnet_links.txt --dir /data/models/ControlNet --continue
