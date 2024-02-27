@@ -1,0 +1,910 @@
+name,prompt,negative_prompt
+3d-model,"professional 3d model, {prompt}, octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
+Ads Advertising,"advertising poster style {prompt}, Professional, modern, product-focused, commercial, eye-catching, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
+Ads Automotive,"automotive advertisement style {prompt}, sleek, dynamic, professional, commercial, vehicle-focused, high-resolution, highly detailed","noisy, blurry, unattractive, sloppy, unprofessional"
+Ads Corporate,"corporate branding style {prompt}, professional, clean, modern, sleek, minimalist, business-oriented, highly detailed","noisy, blurry, grungy, sloppy, cluttered, disorganized"
+Ads Fashion Editorial,"fashion editorial style {prompt}, high fashion, trendy, stylish, editorial, magazine style, professional, highly detailed","outdated, blurry, noisy, unattractive, sloppy"
+Ads Food Photography,"food photography style {prompt}, appetizing, professional, culinary, high-resolution, commercial, highly detailed","unappetizing, sloppy, unprofessional, noisy, blurry"
+Ads Gourmet Food Photography,"gourmet food photo of {prompt}, soft natural lighting, macro details, vibrant colors, fresh ingredients, glistening textures, bokeh background, styled plating, wooden tabletop, garnished, tantalizing, editorial quality","cartoon, anime, sketch, grayscale, dull, overexposed, cluttered, messy plate, deformed"
+Ads Luxury,"luxury product style {prompt}, elegant, sophisticated, high-end, luxurious, professional, highly detailed","cheap, noisy, blurry, unattractive, amateurish"
+Ads Real Estate,"real estate photography style {prompt}, professional, inviting, well-lit, high-resolution, property-focused, commercial, highly detailed","dark, blurry, unappealing, noisy, unprofessional"
+Ads Retail,"retail packaging style {prompt}, vibrant, enticing, commercial, product-focused, eye-catching, professional, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
+Analog film,"analog film photo, {prompt}, faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+Anime,"anime artwork, {prompt}, anime style, key visual, vibrant, studio anime, highly detailed","photo, deformed, black and white, realism, disfigured, low contrast"
+Artstyle Abstract Expressionism,"abstract expressionist painting {prompt}, energetic brushwork, bold colors, abstract forms, expressive, emotional","realistic, photorealistic, low contrast, plain, simple, monochrome"
+Artstyle Abstract,"abstract style {prompt}, non-representational, colors and shapes, expression of feelings, imaginative, highly detailed","realistic, photographic, figurative, concrete"
+Artstyle Art Deco,"art deco style {prompt}, geometric shapes, bold colors, luxurious, elegant, decorative, symmetrical, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist"
+Artstyle Art Nouveau,"art nouveau style {prompt}, elegant, decorative, curvilinear forms, nature-inspired, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist"
+Artstyle Constructivist,"constructivist style {prompt}, geometric shapes, bold colors, dynamic composition, propaganda art style","realistic, photorealistic, low contrast, plain, simple, abstract expressionism"
+Artstyle Cubist,"cubist artwork {prompt}, geometric shapes, abstract, innovative, revolutionary","anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Artstyle Expressionist,"expressionist {prompt}, raw, emotional, dynamic, distortion for emotional effect, vibrant, use of unusual colors, detailed","realism, symmetry, quiet, calm, photo"
+Artstyle Graffiti,"graffiti style {prompt}, street art, vibrant, urban, detailed, tag, mural","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Artstyle Hyperrealism,"hyperrealistic art {prompt}, extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike","simplified, abstract, unrealistic, impressionistic, low resolution"
+Artstyle Impressionist,"impressionist painting {prompt}, loose brushwork, vibrant color, light and shadow play, captures feeling over form","anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Artstyle Pointillism,"pointillism style {prompt}, composed entirely of small, distinct dots of color, vibrant, highly detailed","line drawing, smooth shading, large color fields, simplistic"
+Artstyle Pop Art,"pop Art style {prompt}, bright colors, bold outlines, popular culture themes, ironic or kitsch","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, minimalist"
+Artstyle Psychedelic,"psychedelic style {prompt}, vibrant colors, swirling patterns, abstract forms, surreal, trippy","monochrome, black and white, low contrast, realistic, photorealistic, plain, simple"
+Artstyle Renaissance,"renaissance style {prompt}, realistic, perspective, light and shadow, religious or mythological themes, highly detailed","ugly, deformed, noisy, blurry, low contrast, modernist, minimalist, abstract"
+Artstyle Steampunk,"steampunk style {prompt}, antique, mechanical, brass and copper tones, gears, intricate, detailed","deformed, glitch, noisy, low contrast, anime, photorealistic"
+Artstyle Surrealist,"surrealist art {prompt}, dreamlike, mysterious, provocative, symbolic, intricate, detailed","anime, photorealistic, realistic, deformed, glitch, noisy, low contrast"
+Artstyle Typography,"typographic art {prompt}, stylized, intricate, detailed, artistic, text-based","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Artstyle Watercolor,"watercolor painting {prompt}, vibrant, beautiful, painterly, detailed, textural, artistic","anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Cinematic,"cinematic film still, {prompt}, shallow depth of field, vignette, highly detailed, high budget Hollywood movie, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy","anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+Comic book,"comic, {prompt}, graphic illustration, comic art, graphic novel art, vibrant, highly detailed","photograph, deformed, glitch, noisy, realistic, stock photo"
+Craft clay,"play-doh style, {prompt}, sculpture, clay art, centered composition, Claymation","sloppy, messy, grainy, highly detailed, ultra textured, photo"
+Digital art,"concept art, {prompt}, digital artwork, illustrative, painterly, matte painting, highly detailed","photo, photorealistic, realism, ugly"
+Enhance,"breathtaking, {prompt}, award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
+Fantasy art,"comic, {prompt}, graphic illustration, comic art, graphic novel art, vibrant, highly detailed","photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+Futuristic Biomechanical Cyberpunk,"biomechanical cyberpunk {prompt}, cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate, highly detailed","natural, colorful, deformed, sketch, low contrast, watercolor"
+Futuristic Biomechanical,"biomechanical style {prompt}, blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate","natural, rustic, primitive, organic, simplistic"
+Futuristic Cybernetic Robot,"cybernetic robot {prompt}, android, AI, machine, metal, wires, tech, futuristic, highly detailed","organic, natural, human, sketch, watercolor, low contrast"
+Futuristic Cybernetic,"cybernetic style {prompt}, futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+Futuristic Cyberpunk Cityscape,"cyberpunk cityscape {prompt}, neon lights, dark alleys, skyscrapers, futuristic, vibrant colors, high contrast, highly detailed","natural, rural, deformed, low contrast, black and white, sketch, watercolor"
+Futuristic Futuristic,"futuristic style {prompt}, sleek, modern, ultramodern, high tech, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vintage, antique"
+Futuristic Retro Cyberpunk,"retro cyberpunk {prompt}, 80’s inspired, synthwave, neon, vibrant, detailed, retro futurism","modern, desaturated, black and white, realism, low contrast"
+Futuristic Retro Futurism,"retro-futuristic {prompt}, vintage sci-fi, 50s and 60s style, atomic age, vibrant, highly detailed","contemporary, realistic, rustic, primitive"
+Futuristic Sci Fi,"sci-fi style {prompt}, futuristic, technological, alien worlds, space themes, advanced civilizations","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+Futuristic Vaporwave,"vaporwave style {prompt}, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed","monochrome, muted colors, realism, rustic, minimalist, dark"
+Game Bubble Bobble,"Bubble Bobble style {prompt}, 8-bit, cute, pixelated, fantasy, vibrant, reminiscent of Bubble Bobble game","realistic, modern, photorealistic, violent, horror"
+Game Cyberpunk Game,"cyberpunk game style {prompt}, neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre video games","historical, natural, rustic, low detailed"
+Game Fighting Game,"fighting game style {prompt}, dynamic, vibrant, action-packed, detailed character design, reminiscent of fighting video games","peaceful, calm, minimalist, photorealistic"
+Game Gta,"GTA-style artwork {prompt}, satirical, exaggerated, pop art style, vibrant colors, iconic characters, action-packed","realistic, black and white, low contrast, impressionist, cubist, noisy, blurry, deformed"
+Game Mario,"Super Mario style {prompt}, vibrant, cute, cartoony, fantasy, playful, reminiscent of Super Mario series","realistic, modern, horror, dystopian, violent"
+Game Minecraft,"Minecraft style {prompt}, blocky, pixelated, vibrant colors, recognizable characters and objects, game assets","smooth, realistic, detailed, photorealistic, noise, blurry, deformed"
+Game Pokemon,"Pokémon style {prompt}, vibrant, cute, anime, fantasy, reminiscent of Pokémon series","realistic, modern, horror, dystopian, violent"
+Game Retro Arcade,"retro arcade style {prompt}, 8-bit, pixelated, vibrant, classic video game, old school gaming, reminiscent of 80s and 90s arcade games","modern, ultra-high resolution, photorealistic, 3D"
+Game Retro Game,"retro game art {prompt}, 16-bit, vibrant colors, pixelated, nostalgic, charming, fun","realistic, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Game RPG Fantasy Game,"role-playing game (RPG) style fantasy {prompt}, detailed, vibrant, immersive, reminiscent of high fantasy RPG games","sci-fi, modern, urban, futuristic, low detailed"
+Game Strategy Game,"strategy game style {prompt}, overhead view, detailed map, units, reminiscent of real-time strategy video games","first-person view, modern, photorealistic"
+Game Streetfighter,"Street Fighter style {prompt}, vibrant, dynamic, arcade, 2D fighting game, highly detailed, reminiscent of Street Fighter series","3D, realistic, modern, photorealistic, turn-based strategy"
+Game Zelda,"Legend of Zelda style {prompt}, vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series","sci-fi, modern, realistic, horror"
+Isometric,"isometric style, {prompt}, vibrant, beautiful, crisp, detailed, ultra detailed, intricate","deformed, mutated, ugly, disfigured, blur, blurry, noise, noisy, realistic, photographic"
+Line art,"line art drawing, {prompt}, professional, sleek, modern, minimalist, graphic, line art, vector graphics","anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic"
+Lowpoly,"low-poly style, {prompt}, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition","noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+Misc Architectural,"architectural style {prompt}, clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed","curved lines, ornate, baroque, abstract, grunge"
+Misc Disco,"disco-themed {prompt}, vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed","minimalist, rustic, monochrome, contemporary, simplistic"
+Misc Dreamscape,"dreamscape {prompt}, surreal, ethereal, dreamy, mysterious, fantasy, highly detailed","realistic, concrete, ordinary, mundane"
+Misc Dystopian,"dystopian style {prompt}, bleak, post-apocalyptic, somber, dramatic, highly detailed","ugly, deformed, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful"
+Misc Fairy Tale,"fairy tale {prompt}, magical, fantastical, enchanting, storybook style, highly detailed","realistic, modern, ordinary, mundane"
+Misc Gothic,"gothic style {prompt}, dark, mysterious, haunting, dramatic, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, cheerful, optimistic"
+Misc Grunge,"grunge style {prompt}, textured, distressed, vintage, edgy, punk rock vibe, dirty, noisy","smooth, clean, minimalist, sleek, modern, photorealistic"
+Misc Horror,"horror-themed {prompt}, eerie, unsettling, dark, spooky, suspenseful, grim, highly detailed","cheerful, bright, vibrant, light-hearted, cute"
+Misc Kawaii,"kawaii style {prompt}, cute, adorable, brightly colored, cheerful, anime influence, highly detailed","dark, scary, realistic, monochrome, abstract"
+Misc Lovecraftian,"lovecraftian horror {prompt}, eldritch, cosmic horror, unknown, mysterious, surreal, highly detailed","light-hearted, mundane, familiar, simplistic, realistic"
+Misc Macabre,"macabre style {prompt}, dark, gothic, grim, haunting, highly detailed","bright, cheerful, light-hearted, cartoonish, cute"
+Misc Manga,"manga style {prompt}, vibrant, high-energy, detailed, iconic, Japanese comic style","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, Western comic style"
+Misc Metropolis,"metropolis-themed {prompt}, urban, cityscape, skyscrapers, modern, futuristic, highly detailed","rural, natural, rustic, historical, simple"
+Misc Minimalist,"minimalist style {prompt}, simple, clean, uncluttered, modern, elegant","ornate, complicated, highly detailed, cluttered, disordered, messy, noisy"
+Misc Monochrome,"monochrome {prompt}, black and white, contrast, tone, texture, detailed","colorful, vibrant, noisy, blurry, deformed"
+Misc Nautical,"nautical-themed {prompt}, sea, ocean, ships, maritime, beach, marine life, highly detailed","landlocked, desert, mountains, urban, rustic"
+Misc Space,"space-themed {prompt}, cosmic, celestial, stars, galaxies, nebulas, planets, science fiction, highly detailed","earthly, mundane, ground-based, realism"
+Misc Stained Glass,"stained glass style {prompt}, vibrant, beautiful, translucent, intricate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Misc Techwear Fashion,"techwear fashion {prompt}, futuristic, cyberpunk, urban, tactical, sleek, dark, highly detailed","vintage, rural, colorful, low contrast, realism, sketch, watercolor"
+Misc Tribal,"tribal style {prompt}, indigenous, ethnic, traditional patterns, bold, natural colors, highly detailed","modern, futuristic, minimalist, pastel"
+Misc Zentangle,"zentangle {prompt}, intricate, abstract, monochrome, patterns, meditative, highly detailed","colorful, representative, simplistic, large fields of color"
+Negative Prompt,,"(NSFW), nude, naked, Asian, doll, sketch, painting, book cover, 8bit, pixel art, pixelart, b&w, blac and white, text, monochrome, watermark, plastic, canvas frame, blurry, ugly, closed eyes, elongated body, elongated neck, out of frame, disfigured, deformed, extra fingers, fused fingers, stump fingers, extra arms, extra hands, extra feets, extra legs, mutated hands, poorly drawn hands, extra arms, extra legs, mutated hands, mutated fingers, mutation, mutated, crossed eyes, (poorly drawn face:1.4), (worst quality, low quality, normal quality:1.4)"
+Neon punk,"neonpunk style, {prompt}, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+Origami,"origami style, {prompt}, paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition","noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+Papercraft Collage,"collage style {prompt}, mixed media, layered, textural, detailed, artistic","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Papercraft Flat Papercut,"flat papercut style {prompt}, silhouette, clean cuts, paper, sharp edges, minimalist, color block","3D, high detail, noise, grainy, blurry, painting, drawing, photo, disfigured"
+Papercraft Kirigami,"kirigami representation of {prompt}, 3D, paper folding, paper cutting, Japanese, intricate, symmetrical, precision, clean lines","painting, drawing, 2D, noisy, blurry, deformed"
+Papercraft Paper Mache,"paper mache representation of {prompt}, 3D, sculptural, textured, handmade, vibrant, fun","2D, flat, photo, sketch, digital art, deformed, noisy, blurry"
+Papercraft Paper Quilling,"paper quilling art of {prompt}, intricate, delicate, curling, rolling, shaping, coiling, loops, 3D, dimensional, ornamental","photo, painting, drawing, 2D, flat, deformed, noisy, blurry"
+Papercraft Papercut Collage,"papercut collage of {prompt}, mixed media, textured paper, overlapping, asymmetrical, abstract, vibrant","photo, 3D, realistic, drawing, painting, high detail, disfigured"
+Papercraft Papercut Shadow Box,"3D papercut shadow box of {prompt}, layered, dimensional, depth, silhouette, shadow, papercut, handmade, high contrast","painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured"
+Papercraft Stacked Papercut,"stacked papercut art of {prompt}, 3D, layered, dimensional, depth, precision cut, stacked layers, papercut, high contrast","2D, flat, noisy, blurry, painting, drawing, photo, deformed"
+Papercraft Thick Layered Papercut,"thick layered papercut art of {prompt}, deep 3D, volumetric, dimensional, depth, thick paper, high stack, heavy texture, tangible layers","2D, flat, thin paper, low stack, smooth texture, painting, drawing, photo, deformed"
+Photo Alien,"alien-themed {prompt}, extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed","earthly, mundane, common, realistic, simple"
+Photo Film Noir,"film noir style {prompt}, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful"
+Photo Glamour,"glamorous photo {prompt}, high fashion, luxurious, extravagant, stylish, sensual, opulent, elegance, stunning beauty, professional, high contrast, detailed","ugly, deformed, noisy, blurry, distorted, grainy, sketch, low contrast, dull, plain, modest"
+Photo Hdr,"HDR photo of {prompt}, High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed","flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"
+Photo Iphone Photographic,"iphone photo {prompt}, large depth of field, deep depth of field, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly, shallow depth of field, bokeh"
+Photo Long Exposure,"long exposure photo of {prompt}, Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed","static, noisy, deformed, shaky, abrupt, flat, low contrast"
+Photo Neon Noir,"neon noir {prompt}, cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed","bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
+Photo Silhouette,"silhouette style {prompt}, high contrast, minimalistic, black and white, stark, dramatic","ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic"
+Photo Tilt Shift,"tilt-shift photo of {prompt}, selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control","blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+Photographic,"cinematic photo, {prompt}, 35mm photograph, film, bokeh, professional, 4k, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+pixel art,"pixel-art, {prompt}, low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
+Texture,"texture, {prompt}, top down close-up","ugly, deformed, noisy, blurry"
+3d-model,"professional 3d model, {prompt}, octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
+Ads Advertising,"advertising poster style {prompt}, Professional, modern, product-focused, commercial, eye-catching, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
+Ads Automotive,"automotive advertisement style {prompt}, sleek, dynamic, professional, commercial, vehicle-focused, high-resolution, highly detailed","noisy, blurry, unattractive, sloppy, unprofessional"
+Ads Corporate,"corporate branding style {prompt}, professional, clean, modern, sleek, minimalist, business-oriented, highly detailed","noisy, blurry, grungy, sloppy, cluttered, disorganized"
+Ads Fashion Editorial,"fashion editorial style {prompt}, high fashion, trendy, stylish, editorial, magazine style, professional, highly detailed","outdated, blurry, noisy, unattractive, sloppy"
+Ads Food Photography,"food photography style {prompt}, appetizing, professional, culinary, high-resolution, commercial, highly detailed","unappetizing, sloppy, unprofessional, noisy, blurry"
+Ads Gourmet Food Photography,"gourmet food photo of {prompt}, soft natural lighting, macro details, vibrant colors, fresh ingredients, glistening textures, bokeh background, styled plating, wooden tabletop, garnished, tantalizing, editorial quality","cartoon, anime, sketch, grayscale, dull, overexposed, cluttered, messy plate, deformed"
+Ads Luxury,"luxury product style {prompt}, elegant, sophisticated, high-end, luxurious, professional, highly detailed","cheap, noisy, blurry, unattractive, amateurish"
+Ads Real Estate,"real estate photography style {prompt}, professional, inviting, well-lit, high-resolution, property-focused, commercial, highly detailed","dark, blurry, unappealing, noisy, unprofessional"
+Ads Retail,"retail packaging style {prompt}, vibrant, enticing, commercial, product-focused, eye-catching, professional, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
+Analog film,"analog film photo, {prompt}, faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+Anime,"anime artwork, {prompt}, anime style, key visual, vibrant, studio anime, highly detailed","photo, deformed, black and white, realism, disfigured, low contrast"
+Artstyle Abstract Expressionism,"abstract expressionist painting {prompt}, energetic brushwork, bold colors, abstract forms, expressive, emotional","realistic, photorealistic, low contrast, plain, simple, monochrome"
+Artstyle Abstract,"abstract style {prompt}, non-representational, colors and shapes, expression of feelings, imaginative, highly detailed","realistic, photographic, figurative, concrete"
+Artstyle Art Deco,"art deco style {prompt}, geometric shapes, bold colors, luxurious, elegant, decorative, symmetrical, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist"
+Artstyle Art Nouveau,"art nouveau style {prompt}, elegant, decorative, curvilinear forms, nature-inspired, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist"
+Artstyle Constructivist,"constructivist style {prompt}, geometric shapes, bold colors, dynamic composition, propaganda art style","realistic, photorealistic, low contrast, plain, simple, abstract expressionism"
+Artstyle Cubist,"cubist artwork {prompt}, geometric shapes, abstract, innovative, revolutionary","anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Artstyle Expressionist,"expressionist {prompt}, raw, emotional, dynamic, distortion for emotional effect, vibrant, use of unusual colors, detailed","realism, symmetry, quiet, calm, photo"
+Artstyle Graffiti,"graffiti style {prompt}, street art, vibrant, urban, detailed, tag, mural","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Artstyle Hyperrealism,"hyperrealistic art {prompt}, extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike","simplified, abstract, unrealistic, impressionistic, low resolution"
+Artstyle Impressionist,"impressionist painting {prompt}, loose brushwork, vibrant color, light and shadow play, captures feeling over form","anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Artstyle Pointillism,"pointillism style {prompt}, composed entirely of small, distinct dots of color, vibrant, highly detailed","line drawing, smooth shading, large color fields, simplistic"
+Artstyle Pop Art,"pop Art style {prompt}, bright colors, bold outlines, popular culture themes, ironic or kitsch","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, minimalist"
+Artstyle Psychedelic,"psychedelic style {prompt}, vibrant colors, swirling patterns, abstract forms, surreal, trippy","monochrome, black and white, low contrast, realistic, photorealistic, plain, simple"
+Artstyle Renaissance,"renaissance style {prompt}, realistic, perspective, light and shadow, religious or mythological themes, highly detailed","ugly, deformed, noisy, blurry, low contrast, modernist, minimalist, abstract"
+Artstyle Steampunk,"steampunk style {prompt}, antique, mechanical, brass and copper tones, gears, intricate, detailed","deformed, glitch, noisy, low contrast, anime, photorealistic"
+Artstyle Surrealist,"surrealist art {prompt}, dreamlike, mysterious, provocative, symbolic, intricate, detailed","anime, photorealistic, realistic, deformed, glitch, noisy, low contrast"
+Artstyle Typography,"typographic art {prompt}, stylized, intricate, detailed, artistic, text-based","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Artstyle Watercolor,"watercolor painting {prompt}, vibrant, beautiful, painterly, detailed, textural, artistic","anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Cinematic,"cinematic film still, {prompt}, shallow depth of field, vignette, highly detailed, high budget Hollywood movie, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy","anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+Comic book,"comic, {prompt}, graphic illustration, comic art, graphic novel art, vibrant, highly detailed","photograph, deformed, glitch, noisy, realistic, stock photo"
+Craft clay,"play-doh style, {prompt}, sculpture, clay art, centered composition, Claymation","sloppy, messy, grainy, highly detailed, ultra textured, photo"
+Digital art,"concept art, {prompt}, digital artwork, illustrative, painterly, matte painting, highly detailed","photo, photorealistic, realism, ugly"
+Enhance,"breathtaking, {prompt}, award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
+Fantasy art,"comic, {prompt}, graphic illustration, comic art, graphic novel art, vibrant, highly detailed","photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+Futuristic Biomechanical Cyberpunk,"biomechanical cyberpunk {prompt}, cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate, highly detailed","natural, colorful, deformed, sketch, low contrast, watercolor"
+Futuristic Biomechanical,"biomechanical style {prompt}, blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate","natural, rustic, primitive, organic, simplistic"
+Futuristic Cybernetic Robot,"cybernetic robot {prompt}, android, AI, machine, metal, wires, tech, futuristic, highly detailed","organic, natural, human, sketch, watercolor, low contrast"
+Futuristic Cybernetic,"cybernetic style {prompt}, futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+Futuristic Cyberpunk Cityscape,"cyberpunk cityscape {prompt}, neon lights, dark alleys, skyscrapers, futuristic, vibrant colors, high contrast, highly detailed","natural, rural, deformed, low contrast, black and white, sketch, watercolor"
+Futuristic Futuristic,"futuristic style {prompt}, sleek, modern, ultramodern, high tech, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vintage, antique"
+Futuristic Retro Cyberpunk,"retro cyberpunk {prompt}, 80’s inspired, synthwave, neon, vibrant, detailed, retro futurism","modern, desaturated, black and white, realism, low contrast"
+Futuristic Retro Futurism,"retro-futuristic {prompt}, vintage sci-fi, 50s and 60s style, atomic age, vibrant, highly detailed","contemporary, realistic, rustic, primitive"
+Futuristic Sci Fi,"sci-fi style {prompt}, futuristic, technological, alien worlds, space themes, advanced civilizations","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+Futuristic Vaporwave,"vaporwave style {prompt}, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed","monochrome, muted colors, realism, rustic, minimalist, dark"
+Game Bubble Bobble,"Bubble Bobble style {prompt}, 8-bit, cute, pixelated, fantasy, vibrant, reminiscent of Bubble Bobble game","realistic, modern, photorealistic, violent, horror"
+Game Cyberpunk Game,"cyberpunk game style {prompt}, neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre video games","historical, natural, rustic, low detailed"
+Game Fighting Game,"fighting game style {prompt}, dynamic, vibrant, action-packed, detailed character design, reminiscent of fighting video games","peaceful, calm, minimalist, photorealistic"
+Game Gta,"GTA-style artwork {prompt}, satirical, exaggerated, pop art style, vibrant colors, iconic characters, action-packed","realistic, black and white, low contrast, impressionist, cubist, noisy, blurry, deformed"
+Game Mario,"Super Mario style {prompt}, vibrant, cute, cartoony, fantasy, playful, reminiscent of Super Mario series","realistic, modern, horror, dystopian, violent"
+Game Minecraft,"Minecraft style {prompt}, blocky, pixelated, vibrant colors, recognizable characters and objects, game assets","smooth, realistic, detailed, photorealistic, noise, blurry, deformed"
+Game Pokemon,"Pokémon style {prompt}, vibrant, cute, anime, fantasy, reminiscent of Pokémon series","realistic, modern, horror, dystopian, violent"
+Game Retro Arcade,"retro arcade style {prompt}, 8-bit, pixelated, vibrant, classic video game, old school gaming, reminiscent of 80s and 90s arcade games","modern, ultra-high resolution, photorealistic, 3D"
+Game Retro Game,"retro game art {prompt}, 16-bit, vibrant colors, pixelated, nostalgic, charming, fun","realistic, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+Game RPG Fantasy Game,"role-playing game (RPG) style fantasy {prompt}, detailed, vibrant, immersive, reminiscent of high fantasy RPG games","sci-fi, modern, urban, futuristic, low detailed"
+Game Strategy Game,"strategy game style {prompt}, overhead view, detailed map, units, reminiscent of real-time strategy video games","first-person view, modern, photorealistic"
+Game Streetfighter,"Street Fighter style {prompt}, vibrant, dynamic, arcade, 2D fighting game, highly detailed, reminiscent of Street Fighter series","3D, realistic, modern, photorealistic, turn-based strategy"
+Game Zelda,"Legend of Zelda style {prompt}, vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series","sci-fi, modern, realistic, horror"
+Isometric,"isometric style, {prompt}, vibrant, beautiful, crisp, detailed, ultra detailed, intricate","deformed, mutated, ugly, disfigured, blur, blurry, noise, noisy, realistic, photographic"
+Line art,"line art drawing, {prompt}, professional, sleek, modern, minimalist, graphic, line art, vector graphics","anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic"
+Lowpoly,"low-poly style, {prompt}, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition","noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+Misc Architectural,"architectural style {prompt}, clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed","curved lines, ornate, baroque, abstract, grunge"
+Misc Disco,"disco-themed {prompt}, vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed","minimalist, rustic, monochrome, contemporary, simplistic"
+Misc Dreamscape,"dreamscape {prompt}, surreal, ethereal, dreamy, mysterious, fantasy, highly detailed","realistic, concrete, ordinary, mundane"
+Misc Dystopian,"dystopian style {prompt}, bleak, post-apocalyptic, somber, dramatic, highly detailed","ugly, deformed, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful"
+Misc Fairy Tale,"fairy tale {prompt}, magical, fantastical, enchanting, storybook style, highly detailed","realistic, modern, ordinary, mundane"
+Misc Gothic,"gothic style {prompt}, dark, mysterious, haunting, dramatic, ornate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, cheerful, optimistic"
+Misc Grunge,"grunge style {prompt}, textured, distressed, vintage, edgy, punk rock vibe, dirty, noisy","smooth, clean, minimalist, sleek, modern, photorealistic"
+Misc Horror,"horror-themed {prompt}, eerie, unsettling, dark, spooky, suspenseful, grim, highly detailed","cheerful, bright, vibrant, light-hearted, cute"
+Misc Kawaii,"kawaii style {prompt}, cute, adorable, brightly colored, cheerful, anime influence, highly detailed","dark, scary, realistic, monochrome, abstract"
+Misc Lovecraftian,"lovecraftian horror {prompt}, eldritch, cosmic horror, unknown, mysterious, surreal, highly detailed","light-hearted, mundane, familiar, simplistic, realistic"
+Misc Macabre,"macabre style {prompt}, dark, gothic, grim, haunting, highly detailed","bright, cheerful, light-hearted, cartoonish, cute"
+Misc Manga,"manga style {prompt}, vibrant, high-energy, detailed, iconic, Japanese comic style","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, Western comic style"
+Misc Metropolis,"metropolis-themed {prompt}, urban, cityscape, skyscrapers, modern, futuristic, highly detailed","rural, natural, rustic, historical, simple"
+Misc Minimalist,"minimalist style {prompt}, simple, clean, uncluttered, modern, elegant","ornate, complicated, highly detailed, cluttered, disordered, messy, noisy"
+Misc Monochrome,"monochrome {prompt}, black and white, contrast, tone, texture, detailed","colorful, vibrant, noisy, blurry, deformed"
+Misc Nautical,"nautical-themed {prompt}, sea, ocean, ships, maritime, beach, marine life, highly detailed","landlocked, desert, mountains, urban, rustic"
+Misc Space,"space-themed {prompt}, cosmic, celestial, stars, galaxies, nebulas, planets, science fiction, highly detailed","earthly, mundane, ground-based, realism"
+Misc Stained Glass,"stained glass style {prompt}, vibrant, beautiful, translucent, intricate, detailed","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Misc Techwear Fashion,"techwear fashion {prompt}, futuristic, cyberpunk, urban, tactical, sleek, dark, highly detailed","vintage, rural, colorful, low contrast, realism, sketch, watercolor"
+Misc Tribal,"tribal style {prompt}, indigenous, ethnic, traditional patterns, bold, natural colors, highly detailed","modern, futuristic, minimalist, pastel"
+Misc Zentangle,"zentangle {prompt}, intricate, abstract, monochrome, patterns, meditative, highly detailed","colorful, representative, simplistic, large fields of color"
+Negative Prompt,,"(NSFW), nude, naked, Asian, doll, sketch, painting, book cover, 8bit, pixel art, pixelart, b&w, blac and white, text, monochrome, watermark, plastic, canvas frame, blurry, ugly, closed eyes, elongated body, elongated neck, out of frame, disfigured, deformed, extra fingers, fused fingers, stump fingers, extra arms, extra hands, extra feets, extra legs, mutated hands, poorly drawn hands, extra arms, extra legs, mutated hands, mutated fingers, mutation, mutated, crossed eyes, (poorly drawn face:1.4), (worst quality, low quality, normal quality:1.4)"
+Neon punk,"neonpunk style, {prompt}, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+Origami,"origami style, {prompt}, paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition","noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+Papercraft Collage,"collage style {prompt}, mixed media, layered, textural, detailed, artistic","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+Papercraft Flat Papercut,"flat papercut style {prompt}, silhouette, clean cuts, paper, sharp edges, minimalist, color block","3D, high detail, noise, grainy, blurry, painting, drawing, photo, disfigured"
+Papercraft Kirigami,"kirigami representation of {prompt}, 3D, paper folding, paper cutting, Japanese, intricate, symmetrical, precision, clean lines","painting, drawing, 2D, noisy, blurry, deformed"
+Papercraft Paper Mache,"paper mache representation of {prompt}, 3D, sculptural, textured, handmade, vibrant, fun","2D, flat, photo, sketch, digital art, deformed, noisy, blurry"
+Papercraft Paper Quilling,"paper quilling art of {prompt}, intricate, delicate, curling, rolling, shaping, coiling, loops, 3D, dimensional, ornamental","photo, painting, drawing, 2D, flat, deformed, noisy, blurry"
+Papercraft Papercut Collage,"papercut collage of {prompt}, mixed media, textured paper, overlapping, asymmetrical, abstract, vibrant","photo, 3D, realistic, drawing, painting, high detail, disfigured"
+Papercraft Papercut Shadow Box,"3D papercut shadow box of {prompt}, layered, dimensional, depth, silhouette, shadow, papercut, handmade, high contrast","painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured"
+Papercraft Stacked Papercut,"stacked papercut art of {prompt}, 3D, layered, dimensional, depth, precision cut, stacked layers, papercut, high contrast","2D, flat, noisy, blurry, painting, drawing, photo, deformed"
+Papercraft Thick Layered Papercut,"thick layered papercut art of {prompt}, deep 3D, volumetric, dimensional, depth, thick paper, high stack, heavy texture, tangible layers","2D, flat, thin paper, low stack, smooth texture, painting, drawing, photo, deformed"
+Photo Alien,"alien-themed {prompt}, extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed","earthly, mundane, common, realistic, simple"
+Photo Film Noir,"film noir style {prompt}, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic","ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful"
+Photo Glamour,"glamorous photo {prompt}, high fashion, luxurious, extravagant, stylish, sensual, opulent, elegance, stunning beauty, professional, high contrast, detailed","ugly, deformed, noisy, blurry, distorted, grainy, sketch, low contrast, dull, plain, modest"
+Photo Hdr,"HDR photo of {prompt}, High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed","flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"
+Photo Iphone Photographic,"iphone photo {prompt}, large depth of field, deep depth of field, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly, shallow depth of field, bokeh"
+Photo Long Exposure,"long exposure photo of {prompt}, Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed","static, noisy, deformed, shaky, abrupt, flat, low contrast"
+Photo Neon Noir,"neon noir {prompt}, cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed","bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
+Photo Silhouette,"silhouette style {prompt}, high contrast, minimalistic, black and white, stark, dramatic","ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic"
+Photo Tilt Shift,"tilt-shift photo of {prompt}, selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control","blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+Photographic,"cinematic photo, {prompt}, 35mm photograph, film, bokeh, professional, 4k, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+pixel art,"pixel-art, {prompt}, low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
+Texture,"texture, {prompt}, top down close-up","ugly, deformed, noisy, blurry"
+Akihito Tsukushi,art by Akihito Tsukushi,
+Al Hirschfeld,art by Al Hirschfeld,
+Alan Lee,art by Alan Lee,
+Albert Bierstadt,art by Albert Bierstadt,
+Albert Uderzo,art by Albert Uderzo,
+Alberto Giacometti,art by Alberto Giacometti,
+Alberto Vargas,art by Alberto Vargas,
+Albrecht Durer,art by Albrecht Durer,
+Alejandro Burdisio,art by Alejandro Burdisio,
+Aleksi Briclot,art by Aleksi Briclot,
+Alena Aenami,art by Alena Aenami,
+Alessio Albi,art by Alessio Albi,
+Alex Gard,art by Alex Gard,
+Alex Grey,art by Alex Grey,
+Alex Maleev,art by Alex Maleev,
+Alexander Jansson,art by Alexander Jansson,
+Alexander Milne Calder,art by Alexander Milne Calder,
+Alexandre Cabanel,art by Alexandre Cabanel,
+Alexei Savrasov,art by Alexei Savrasov,
+Alexej von Jawlensky,art by Alexej von Jawlensky,
+Alfred Kubin,art by Alfred Kubin,
+Alice Neel,art by Alice Neel,
+Alice Rahon,art by Alice Rahon,
+Alphonse Mucha,art by Alphonse Mucha,
+Amanda Clark,art by Amanda Clark,
+Amanda Sage,art by Amanda Sage,
+Amedeo Modigliani,art by Amedeo Modigliani,
+Amelie Bernard,art by Amelie Bernard,
+Anders Zorn,art by Anders Zorn,
+Andreas Achenbach,art by Andreas Achenbach,
+Andrew Wyeth,art by Andrew Wyeth,
+André Kertész,art by André Kertész,
+André Masson,art by André Masson,
+Andy Fairhurst,art by Andy Fairhurst,
+Andy Singer,art by Andy Singer,
+Andy Warhol,art by Andy Warhol,
+Anita Malfatti,art by Anita Malfatti,
+Anna Dittmann,art by Anna Dittmann,
+Anne Geddes,art by Anne Geddes,
+Anne Stokes,art by Anne Stokes,
+Anne-Louis Girodet,art by Anne-Louis Girodet,
+Annibale Carracci,art by Annibale Carracci,
+Annie Leibovitz,art by Annie Leibovitz,
+Ansel Adams,art by Ansel Adams,
+Anthony van Dyck,art by Anthony van Dyck,
+Anton Fadeev,art by Anton Fadeev,
+Anton Otto,art by Anton Otto,
+Apollonia Saintclair,art by Apollonia Saintclair,
+Arkhip Kuindzhi,art by Arkhip Kuindzhi,
+Arnold Böcklin,art by Arnold Böcklin,
+Arshile Gorky,art by Arshile Gorky,
+Art Spiegelman,art by Art Spiegelman,
+Artemisia Gentileschi,art by Artemisia Gentileschi,
+Arthur Dove,art by Arthur Dove,
+Asaf Hanuka,art by Asaf Hanuka,
+Asher Brown Durand,art by Asher Brown Durand,
+Ashley Wood,art by Ashley Wood,
+Audrey Kawasaki,art by Audrey Kawasaki,
+Austin Briggs,art by Austin Briggs,
+Balthus,art by Balthus,
+Banksy,art by Banksy,
+Barclay Shaw,art by Barclay Shaw,
+Barry Blitt,art by Barry Blitt,
+Bastien Lecouffe Deharme,art by Bastien Lecouffe Deharme,
+Beatrix Potter,art by Beatrix Potter,
+Beauford Delaney,art by Beauford Delaney,
+Beeple,art by Beeple,
+Ben Shahn,art by Ben Shahn,
+Benoit B. Mandelbrot,art by Benoit B. Mandelbrot,
+Bernard Buffet,art by Bernard Buffet,
+Bernd and Hilla Becher,art by Bernd and Hilla Becher,
+Bernie Wrightson,art by Bernie Wrightson,
+Berthe Morisot,art by Berthe Morisot,
+Bill Plympton,art by Bill Plympton,
+Bjarke Ingels,art by Bjarke Ingels,
+Bob Byerley,art by Bob Byerley,
+Bob Eggleton,art by Bob Eggleton,
+Bob Ross,art by Bob Ross,
+Boris Vallejo,art by Boris Vallejo,
+Brandon Woelfel,art by Brandon Woelfel,
+Brian Despain,art by Brian Despain,
+Brian Kesinger,art by Brian Kesinger,
+Brothers Hildebrandt,art by Brothers Hildebrandt,
+Bruce Nauman,art by Bruce Nauman,
+Bruce Pennington,art by Bruce Pennington,
+Bruno Taut,art by Bruno Taut,
+Camille Claudel,art by Camille Claudel,
+Camille Corot,art by Camille Corot,
+Camille Pissarro,art by Camille Pissarro,
+Canaletto,art by Canaletto,
+Candido Portinari,art by Candido Portinari,
+Caravaggio,art by Caravaggio,
+Carl Holsoe,art by Carl Holsoe,
+Carl Larsson,art by Carl Larsson,
+Carne Griffiths,art by Carne Griffiths,
+Caspar David Friedrich,art by Caspar David Friedrich,
+Chaim Soutine,art by Chaim Soutine,
+Charles Blackman,art by Charles Blackman,
+Charles Demuth,art by Charles Demuth,
+Charles E. Burchfield,art by Charles E. Burchfield,
+Charles Eames,art by Charles Eames,
+Charles Rennie Mackintosh,art by Charles Rennie Mackintosh,
+Chesley Bonestell,art by Chesley Bonestell,
+Chiharu Shiota,art by Chiharu Shiota,
+Childe Hassam,art by Childe Hassam,
+Chris Foss,art by Chris Foss,
+Chris Mars,art by Chris Mars,
+Chris Menges,art by Chris Menges,
+Chris Moore,art by Chris Moore,
+Christopher Doyle,art by Christopher Doyle,
+Cindy Sherman,art by Cindy Sherman,
+Clarence Holbrook Carter,art by Clarence Holbrook Carter,
+Claude Cahun,art by Claude Cahun,
+Claude Lorrain,art by Claude Lorrain,
+Claude Monet,art by Claude Monet,
+Clive Barker,art by Clive Barker,
+Clive Madgwick,art by Clive Madgwick,
+Clovis Trouille,art by Clovis Trouille,
+Clyde Caldwell,art by Clyde Caldwell,
+Coby Whitmore,art by Coby Whitmore,
+Codex Seraphinianus,art by Codex Seraphinianus,
+Coles Phillips,art by Coles Phillips,
+Conrad Roset,art by Conrad Roset,
+Craig Mullins,art by Craig Mullins,
+Cuno Amiet,art by Cuno Amiet,
+Dale Chihuly,art by Dale Chihuly,
+Damien Hirst,art by Damien Hirst,
+Dan Flavin,art by Dan Flavin,
+Dan Mumford,art by Dan Mumford,
+Daniel Gerhartz,art by Daniel Gerhartz,
+Daniel Merriam,art by Daniel Merriam,
+Daniel Ridgway Knight,art by Daniel Ridgway Knight,
+Dave Gibbons,art by Dave Gibbons,
+Dave McKean,art by Dave McKean,
+David Alfaro Siqueiros,art by David Alfaro Siqueiros,
+David B. Mattingly,art by David B. Mattingly,
+David Burliuk,art by David Burliuk,
+David Hockney,art by David Hockney,
+David Park,art by David Park,
+Dean Ellis,art by Dean Ellis,
+Dennis Stock,art by Dennis Stock,
+Di Cavalcanti,art by Di Cavalcanti,
+Diane Arbus,art by Diane Arbus,
+Diego Velazquez,art by Diego Velazquez,
+Dion Beebe,art by Dion Beebe,
+Don Bluth,art by Don Bluth,
+Don Maitz,art by Don Maitz,
+Donato Giancola,art by Donato Giancola,
+Dora Maar,art by Dora Maar,
+Dorothea Lange,art by Dorothea Lange,
+Dorothea Tanning,art by Dorothea Tanning,
+Dorothy Lathrop,art by Dorothy Lathrop,
+Doug Chiang,art by Doug Chiang,
+E.H. Shepard,art by E.H. Shepard,
+Earl Norem,art by Earl Norem,
+Ed Binkley,art by Ed Binkley,
+Ed Emshwiller,art by Ed Emshwiller,
+Ed Mell,art by Ed Mell,
+Edgar Degas,art by Edgar Degas,
+Edmund Leighton,art by Edmund Leighton,
+Edvard Munch,art by Edvard Munch,
+Edward Hopper,art by Edward Hopper,
+Edward Weston,art by Edward Weston,
+Edwin Austen Abbey,art by Edwin Austen Abbey,
+Egon Schiele,art by Egon Schiele,
+Eikoh Hosoe,art by Eikoh Hosoe,
+El Greco,art by El Greco,
+Elaine de Kooning,art by Elaine de Kooning,
+Ellen Jewett,art by Ellen Jewett,
+Elsa Beskow,art by Elsa Beskow,
+Emil Melmoth,art by Emil Melmoth,
+Emil Nolde,art by Emil Nolde,
+Emily Carr,art by Emily Carr,
+Emmanuel Lubezki,art by Emmanuel Lubezki,
+Enki Bilal,art by Enki Bilal,
+Eric Gill,art by Eric Gill,
+Eric Lacombe,art by Eric Lacombe,
+Erich Heckel,art by Erich Heckel,
+Erich Ludwig Kirchner,art by Erich Ludwig Kirchner,
+Ernst Fuchs,art by Ernst Fuchs,
+Ernst Haeckel,art by Ernst Haeckel,
+Esao Andrews,art by Esao Andrews,
+Eugène Delacroix,art by Eugène Delacroix,
+Eva Hesse,art by Eva Hesse,
+Evelyn De Morgan,art by Evelyn De Morgan,
+Eyvind Earle,art by Eyvind Earle,
+Fairfield Porter,art by Fairfield Porter,
+Farel Dalrymple,art by Farel Dalrymple,
+Fernand Léger,art by Fernand Léger,
+Fernando Botero,art by Fernando Botero,
+Filippo Lippi,art by Filippo Lippi,
+Francis Bacon,art by Francis Bacon,
+Francis Picabia,art by Francis Picabia,
+Francisco Goya,art by Francisco Goya,
+Frank Auerbach,art by Frank Auerbach,
+Frank Frazetta,art by Frank Frazetta,
+Frank Lloyd Wright,art by Frank Lloyd Wright,
+Frank Miller,art by Frank Miller,
+Frank Schoonover,art by Frank Schoonover,
+Franklin Booth,art by Franklin Booth,
+Franz Kline,art by Franz Kline,
+Franz Marc,art by Franz Marc,
+Franz Sedlacek,art by Franz Sedlacek,
+Franz Xaver Winterhalter,art by Franz Xaver Winterhalter,
+Fred Tomaselli,art by Fred Tomaselli,
+Frederick Lord Leighton,art by Frederick Lord Leighton,
+Frida Kahlo,art by Frida Kahlo,
+Friedensreich Regentag Dunkelbunt Hundertwasser,art by Friedensreich Regentag Dunkelbunt Hundertwasser,
+Frits Van den Berghe,art by Frits Van den Berghe,
+Félix Vallotton,art by Félix Vallotton,
+Gabriel Pacheco,art by Gabriel Pacheco,
+Garry Trudeau,art by Garry Trudeau,
+Gary Larson,art by Gary Larson,
+George Inness,art by George Inness,
+George Luks,art by George Luks,
+Georges Rouault,art by Georges Rouault,
+Georges Seurat,art by Georges Seurat,
+Georgia O'Keeffe,art by Georgia O'Keeffe,
+Gerald Brom,art by Gerald Brom,
+Gerhard Munthe,art by Gerhard Munthe,
+Gerhard Richter,art by Gerhard Richter,
+Gertrude Abercrombie,art by Gertrude Abercrombie,
+Giacomo Balla,art by Giacomo Balla,
+Giorgio de Chirico,art by Giorgio de Chirico,
+Giuseppe Arcimboldo,art by Giuseppe Arcimboldo,
+Glenn Fabry,art by Glenn Fabry,
+Go Nagai,art by Go Nagai,
+Gottfried Helnwein,art by Gottfried Helnwein,
+Graciela Iturbide,art by Graciela Iturbide,
+Grandma Moses,art by Grandma Moses,
+Greg Hildebrandt,art by Greg Hildebrandt,
+Greg Rutkowski,art by Greg Rutkowski,
+Gregory Crewdson,art by Gregory Crewdson,
+Guido Borelli da Caluso,art by Guido Borelli da Caluso,
+Guillermo del Toro,art by Guillermo del Toro,
+Gustav Klimt,art by Gustav Klimt,
+Gustav Vigeland,art by Gustav Vigeland,
+Gustave Caillebotte,art by Gustave Caillebotte,
+Gustave Courbet,art by Gustave Courbet,
+Gustave Dore,art by Gustave Dore,
+Gustave Moreau,art by Gustave Moreau,
+H. R. Giger,art by H. R. Giger,
+Hal Foster,art by Hal Foster,
+Hannah Höch,art by Hannah Höch,
+Hans Baldung,art by Hans Baldung,
+Hans Bellmer,art by Hans Bellmer,
+Harold Elliott,art by Harold Elliott,
+Harriet Backer,art by Harriet Backer,
+Harry Clarke,art by Harry Clarke,
+Harry Gruyaert,art by Harry Gruyaert,
+Heinrich Kley,art by Heinrich Kley,
+Hendrik Kerstens,art by Hendrik Kerstens,
+Henri de Toulouse-Lautrec,art by Henri de Toulouse-Lautrec,
+Henri Harpignies,art by Henri Harpignies,
+Henri Matisse,art by Henri Matisse,
+Henri Rousseau,art by Henri Rousseau,
+Henri-Edmond Cross,art by Henri-Edmond Cross,
+Henry Ossawa Tanner,art by Henry Ossawa Tanner,
+Hergé,art by Hergé,
+Hieronymus Bosch,art by Hieronymus Bosch,
+Hilma af Klint,art by Hilma af Klint,
+Hirohiko Araki,art by Hirohiko Araki,
+Hiromu Arakawa,art by Hiromu Arakawa,
+Hiroshi Nagai,art by Hiroshi Nagai,
+Hiroshi Yoshida,art by Hiroshi Yoshida,
+Hokusai,art by Hokusai,
+Honore Daumier,art by Honore Daumier,
+Hope Gangloff,art by Hope Gangloff,
+Howard Finster,art by Howard Finster,
+Howard Hodgkin,art by Howard Hodgkin,
+Hubert Robert,art by Hubert Robert,
+Hugh Ferriss,art by Hugh Ferriss,
+Hugh Kretschmer,art by Hugh Kretschmer,
+Hundertwasser,art by Hundertwasser,
+Ian McQue,art by Ian McQue,
+Ian Miller,art by Ian Miller,
+Igor Morski,art by Igor Morski,
+Ilkka Uimonen,art by Ilkka Uimonen,
+Ilya Repin,art by Ilya Repin,
+Irma Stern,art by Irma Stern,
+Isaac Levitan,art by Isaac Levitan,
+Isamu Noguchi,art by Isamu Noguchi,
+Ivan Aivazovsky,art by Ivan Aivazovsky,
+Ivan Albright,art by Ivan Albright,
+Ivan Generalic,art by Ivan Generalic,
+Ivan Shishkin,art by Ivan Shishkin,
+J. J. Grandville,art by J. J. Grandville,
+J.C. Leyendecker,art by J.C. Leyendecker,
+J.M.W. Turner,art by J.M.W. Turner,
+Jacek Yerka,art by Jacek Yerka,
+Jack Butler Yeats,art by Jack Butler Yeats,
+Jack Davis,art by Jack Davis,
+Jack Gaughan,art by Jack Gaughan,
+Jack Kirby,art by Jack Kirby,
+Jackson Pollock,art by Jackson Pollock,
+Jacob Lawrence,art by Jacob Lawrence,
+Jacob Riis,art by Jacob Riis,
+Jacques-Laurent Agasse,art by Jacques-Laurent Agasse,
+Jakub Rozalski,art by Jakub Rozalski,
+James Abbott McNeill Whistler,art by James Abbott McNeill Whistler,
+James C. Christensen,art by James C. Christensen,
+James Ensor,art by James Ensor,
+James Jean,art by James Jean,
+James Turrell,art by James Turrell,
+Jan van Goyen,art by Jan van Goyen,
+Jaroslaw Jasnikowski,art by Jaroslaw Jasnikowski,
+Jasmine Becket-Griffith,art by Jasmine Becket-Griffith,
+Jason Edmiston,art by Jason Edmiston,
+Jason Limon,art by Jason Limon,
+Jean Arp,art by Jean Arp,
+Jean Delville,art by Jean Delville,
+Jean Giraud (Moebius),art by Jean Giraud (Moebius),
+Jean Leon Gerome,art by Jean Leon Gerome,
+Jean Metzinger,art by Jean Metzinger,
+Jean-Auguste-Dominique Ingres,art by Jean-Auguste-Dominique Ingres,
+Jean-Baptiste Carpeaux,art by Jean-Baptiste Carpeaux,
+Jean-Baptiste-Siméon Chardin,art by Jean-Baptiste-Siméon Chardin,
+Jean-Honore Fragonard,art by Jean-Honore Fragonard,
+Jean-Michel Basquiat,art by Jean-Michel Basquiat,
+Jean-Pierre Vasarely (Yvaral),art by Jean-Pierre Vasarely (Yvaral),
+Jeff Easley,art by Jeff Easley,
+Jeff Koons,art by Jeff Koons,
+Jeff Lemire,art by Jeff Lemire,
+Jeffrey Catherine Jones,art by Jeffrey Catherine Jones,
+Jeffrey Smith,art by Jeffrey Smith,
+Jeffrey T. Larson,art by Jeffrey T. Larson,
+Jeremy Geddes,art by Jeremy Geddes,
+Jeremy Lipking,art by Jeremy Lipking,
+Jeremy Mann,art by Jeremy Mann,
+Jesper Ejsing,art by Jesper Ejsing,
+Jim Burns,art by Jim Burns,
+Jim Fitzpatrick,art by Jim Fitzpatrick,
+Jim Lee,art by Jim Lee,
+Jim Steranko,art by Jim Steranko,
+Jithesh,art by Jithesh,
+Joan Miró,art by Joan Miró,
+Joaquin Sorolla,art by Joaquin Sorolla,
+Johan Christian Dahl,art by Johan Christian Dahl,
+Johannes Vermeer,art by Johannes Vermeer,
+Johfra Bosschart,art by Johfra Bosschart,
+John Atkinson Grimshaw,art by John Atkinson Grimshaw,
+John Bauer,art by John Bauer,
+John Berkey,art by John Berkey,
+John Blanche,art by John Blanche,
+John Carpenter,art by John Carpenter,
+John Constable,art by John Constable,
+John Duncan,art by John Duncan,
+John Frederick Kensett,art by John Frederick Kensett,
+John Harris,art by John Harris,
+John Hoyland,art by John Hoyland,
+John James Audubon,art by John James Audubon,
+John Kenn Mortensen,art by John Kenn Mortensen,
+John Kricfalusi,art by John Kricfalusi,
+John Martin,art by John Martin,
+John Perceval,art by John Perceval,
+John Philip Falter,art by John Philip Falter,
+John Romita Jr,art by John Romita Jr,
+John Singer Sargent,art by John Singer Sargent,
+John Stephens,art by John Stephens,
+John William Waterhouse,art by John William Waterhouse,
+Jonas Bendiksen,art by Jonas Bendiksen,
+Josan Gonzalez,art by Josan Gonzalez,
+Joseph Cornell,art by Joseph Cornell,
+Joseph Ducreux,art by Joseph Ducreux,
+Joseph Stella,art by Joseph Stella,
+Josephine Wall,art by Josephine Wall,
+Jules Bastien-Lepage,art by Jules Bastien-Lepage,
+Jules Feiffer,art by Jules Feiffer,
+Jules Pascin,art by Jules Pascin,
+Junji Ito,art by Junji Ito,
+Justin Gerard,art by Justin Gerard,
+Kaethe Butcher,art by Kaethe Butcher,
+Kaja Foglio,art by Kaja Foglio,
+Karel Thole,art by Karel Thole,
+Karl Blossfeldt,art by Karl Blossfeldt,
+Karl Schmidt-Rottluff,art by Karl Schmidt-Rottluff,
+Karol Bak,art by Karol Bak,
+Kate Greenaway,art by Kate Greenaway,
+Kathe Kollwitz,art by Kathe Kollwitz,
+Katsuhiro Otomo,art by Katsuhiro Otomo,
+Katsushika Hokusai,art by Katsushika Hokusai,
+Kay Nielsen,art by Kay Nielsen,
+Kay Sage,art by Kay Sage,
+Kazimir Malevich,art by Kazimir Malevich,
+Kehinde Wiley,art by Kehinde Wiley,
+Kelly Freas,art by Kelly Freas,
+Kelly McKernan,art by Kelly McKernan,
+Ken Sugimori,art by Ken Sugimori,
+Kenojuak Ashevak,art by Kenojuak Ashevak,
+Kentaro Miura,art by Kentaro Miura,
+Kilian Eng,art by Kilian Eng,
+Kim Jung Gi,art by Kim Jung Gi,
+Kuang Hong,art by Kuang Hong,
+Larry Elmore,art by Larry Elmore,
+Lasar Segall,art by Lasar Segall,
+Laurel Burch,art by Laurel Burch,
+Laurie Greasley,art by Laurie Greasley,
+Laurie Lipton,art by Laurie Lipton,
+Lawren Harris,art by Lawren Harris,
+Le caravaggesque,art by Le caravaggesque,
+Lee Krasner,art by Lee Krasner,
+Lee Madgwick,art by Lee Madgwick,
+Leiji Matsumoto,art by Leiji Matsumoto,
+Leon Bankst,art by Leon Bankst,
+Leonardo da Vinci,art by Leonardo da Vinci,
+Leonid Afremov,art by Leonid Afremov,
+Liam Wong,art by Liam Wong,
+Liniers,art by Liniers,
+Lisa Frank,art by Lisa Frank,
+Louis Comfort Tiffany,art by Louis Comfort Tiffany,
+Louis Wain,art by Louis Wain,
+Lovis Corinth,art by Lovis Corinth,
+Luc Schuiten,art by Luc Schuiten,
+Lucian Freud,art by Lucian Freud,
+Luis Royo,art by Luis Royo,
+Lyonel Feininger,art by Lyonel Feininger,
+Lyubov Popova,art by Lyubov Popova,
+M.C. Escher,art by M.C. Escher,
+M.W. Kaluta,art by M.W. Kaluta,
+Mab Graves,art by Mab Graves,
+Makoto Shinkai,art by Makoto Shinkai,
+Malcolm Liepke,art by Malcolm Liepke,
+Man Ray,art by Man Ray,
+Marc Chagall,art by Marc Chagall,
+Marc Simonetti,art by Marc Simonetti,
+Marco Mazzoni,art by Marco Mazzoni,
+Marek Okon,art by Marek Okon,
+Margaret Boden,art by Margaret Boden,
+Margaret Bruce Wells,art by Margaret Bruce Wells,
+Margaret Brundage,art by Margaret Brundage,
+Margaret Garland,art by Margaret Garland,
+Margaret Geddes,art by Margaret Geddes,
+Margaret Graeme Niven,art by Margaret Graeme Niven,
+Margaret Keane,art by Margaret Keane,
+Margaret Macdonald Mackintosh,art by Margaret Macdonald Mackintosh,
+Maria Prymachenko,art by Maria Prymachenko,
+Maria Sibylla Merian,art by Maria Sibylla Merian,
+Marianne von Werefkin,art by Marianne von Werefkin,
+Mario Testino,art by Mario Testino,
+Marjorie Strider,art by Marjorie Strider,
+Mark Brooks,art by Mark Brooks,
+Mark Catesby,art by Mark Catesby,
+Mark Lague,art by Mark Lague,
+Mark Rothko,art by Mark Rothko,
+Mark Ryden,art by Mark Ryden,
+Marsden Hartley,art by Marsden Hartley,
+Martin Johnson Heade,art by Martin Johnson Heade,
+Martin Parr,art by Martin Parr,
+Martiros Saryan,art by Martiros Saryan,
+Mary Blair,art by Mary Blair,
+Mary Cassatt,art by Mary Cassatt,
+Masamune Shirow,art by Masamune Shirow,
+Masashi Kishimoto,art by Masashi Kishimoto,
+Mat Collishaw,art by Mat Collishaw,
+Mati Klarwein,art by Mati Klarwein,
+Matt Groening,art by Matt Groening,
+Matthias Grunewald,art by Matthias Grunewald,
+Matti Suuronen,art by Matti Suuronen,
+Maurice Sendak,art by Maurice Sendak,
+Max Beckmann,art by Max Beckmann,
+Max Ernst,art by Max Ernst,
+Max Pechstein,art by Max Pechstein,
+Max Weber,art by Max Weber,
+Maxfield Parrish,art by Maxfield Parrish,
+Meret Oppenheim,art by Meret Oppenheim,
+Michael Deforge,art by Michael Deforge,
+Michael Whelan,art by Michael Whelan,
+Michelangelo,art by Michelangelo,
+Mike Mignola,art by Mike Mignola,
+Mikhail Vrubel,art by Mikhail Vrubel,
+Miles Aldridge,art by Miles Aldridge,
+Milton Avery,art by Milton Avery,
+Milton Glaser,art by Milton Glaser,
+Moebius (Jean Giraud),art by Moebius (Jean Giraud),
+Mort Drucker,art by Mort Drucker,
+Nan Goldin,art by Nan Goldin,
+Nao Emoto,art by Nao Emoto,
+Naoto Hattori,art by Naoto Hattori,
+Natalia Goncharova,art by Natalia Goncharova,
+Neil Welliver,art by Neil Welliver,
+Nele Zirnite,art by Nele Zirnite,
+Nell Dorr,art by Nell Dorr,
+Nicholas Roerich,art by Nicholas Roerich,
+Nick Knight,art by Nick Knight,
+Nikos Economopoulos,art by Nikos Economopoulos,
+Nobuyoshi Araki,art by Nobuyoshi Araki,
+Noriyoshi Ohrai,art by Noriyoshi Ohrai,
+Norman Rockwell,art by Norman Rockwell,
+Nychos,art by Nychos,
+Odd Nerdrum,art by Odd Nerdrum,
+Odilon Redon,art by Odilon Redon,
+Oliver Jeffers,art by Oliver Jeffers,
+Oskar Kokoschka,art by Oskar Kokoschka,
+Oskar Schlemmer,art by Oskar Schlemmer,
+Otto Dix,art by Otto Dix,
+Otto Marseus van Schrieck,art by Otto Marseus van Schrieck,
+Pablo Picasso,art by Pablo Picasso,
+Pascal Campion,art by Pascal Campion,
+Patrick Henry Bruce,art by Patrick Henry Bruce,
+Patrick Heron,art by Patrick Heron,
+Patrick Nagel,art by Patrick Nagel,
+Patrick Woodroffe,art by Patrick Woodroffe,
+Paul Cezanne,art by Paul Cezanne,
+Paul Delvaux,art by Paul Delvaux,
+Paul Gauguin,art by Paul Gauguin,
+Paul Gustav Fischer,art by Paul Gustav Fischer,
+Paul Klee,art by Paul Klee,
+Paul Rand,art by Paul Rand,
+Paula Modersohn-Becker,art by Paula Modersohn-Becker,
+Pendleton Ward,art by Pendleton Ward,
+Peter Bagge,art by Peter Bagge,
+Peter Elson,art by Peter Elson,
+Peter Gric,art by Peter Gric,
+Peter Kemp,art by Peter Kemp,
+Peter Max,art by Peter Max,
+Peter Paul Rubens,art by Peter Paul Rubens,
+Phil Foglio,art by Phil Foglio,
+Philip Guston,art by Philip Guston,
+Philip Pearlstein,art by Philip Pearlstein,
+Philip-Lorca diCorcia,art by Philip-Lorca diCorcia,
+Pierre Bonnard,art by Pierre Bonnard,
+Piet Mondrian,art by Piet Mondrian,
+Pieter Claesz,art by Pieter Claesz,
+Platon,art by Platon,
+Quentin Blake,art by Quentin Blake,
+Rachel Ignotofsky,art by Rachel Ignotofsky,
+Rafal Olbinski,art by Rafal Olbinski,
+Ralph McQuarrie,art by Ralph McQuarrie,
+Ralph Steadman,art by Ralph Steadman,
+Ramón Casas,art by Ramón Casas,
+Randolph Caldecott,art by Randolph Caldecott,
+Raphael Lacoste,art by Raphael Lacoste,
+Raphaelite,art by Raphaelite,
+Ray Caesar,art by Ray Caesar,
+Ray Earnes,art by Ray Earnes,
+Raymond Briggs,art by Raymond Briggs,
+Raymond Swanland,art by Raymond Swanland,
+Rebeca Saray,art by Rebeca Saray,
+Rebecca Guay,art by Rebecca Guay,
+Reginald Marsh,art by Reginald Marsh,
+Remedios Varo,art by Remedios Varo,
+René Magritte,art by René Magritte,
+Richard Corben,art by Richard Corben,
+Richard Dadd,art by Richard Dadd,
+Richard Diebenkorn,art by Richard Diebenkorn,
+Richard Doyle,art by Richard Doyle,
+Richard Scarry,art by Richard Scarry,
+Ridley Scott,art by Ridley Scott,
+Rineke Dijkstra,art by Rineke Dijkstra,
+Rob Gonsalves,art by Rob Gonsalves,
+Rob Liefeld,art by Rob Liefeld,
+Robert Bechtle,art by Robert Bechtle,
+Robert Capa,art by Robert Capa,
+Robert Crumb,art by Robert Crumb,
+Robert Delaunay,art by Robert Delaunay,
+Robert McCall,art by Robert McCall,
+Robert McGinnis,art by Robert McGinnis,
+Robert Motherwell,art by Robert Motherwell,
+Robert Rauschenberg,art by Robert Rauschenberg,
+Robert Williams,art by Robert Williams,
+Roberto Ferri,art by Roberto Ferri,
+Roberto Matta,art by Roberto Matta,
+Rockwell Kent,art by Rockwell Kent,
+Rodney Matthews,art by Rodney Matthews,
+Rodrigo Prieto,art by Rodrigo Prieto,
+Roger Dean,art by Roger Dean,
+Romare Bearden,art by Romare Bearden,
+Romero Britto,art by Romero Britto,
+Ron Walotsky,art by Ron Walotsky,
+Rosa Bonheur,art by Rosa Bonheur,
+Roy Lichtenstein,art by Roy Lichtenstein,
+Rudolf Hausner,art by Rudolf Hausner,
+Rufino Tamayo,art by Rufino Tamayo,
+Russ Mills,art by Russ Mills,
+Ruth Bernhard,art by Ruth Bernhard,
+Ryan Hewett,art by Ryan Hewett,
+Ryo Takemasa,art by Ryo Takemasa,
+Ryohei Hase,art by Ryohei Hase,
+Sally Mann,art by Sally Mann,
+Salvador Dali,art by Salvador Dali,
+Sam Bosma,art by Sam Bosma,
+Sam Francis,art by Sam Francis,
+Sam Guay,art by Sam Guay,
+Sam Toft,art by Sam Toft,
+Santiago Caruso,art by Santiago Caruso,
+Satoshi Kon,art by Satoshi Kon,
+Sebastian Krüger,art by Sebastian Krüger,
+Sebastião Salgado,art by Sebastião Salgado,
+Sergio Toppi,art by Sergio Toppi,
+Shaun Tan,art by Shaun Tan,
+Shepard Fairey,art by Shepard Fairey,
+Shiki,art by Shiki,
+Shinji Aramaki,art by Shinji Aramaki,
+Shotaro Ishinomori,art by Shotaro Ishinomori,
+Sidney Nolan,art by Sidney Nolan,
+Sidney Prior Hall,art by Sidney Prior Hall,
+Simon Bisley,art by Simon Bisley,
+Simon Stålenhag,art by Simon Stålenhag,
+Simone Martini,art by Simone Martini,
+Sir James Guthrie,art by Sir James Guthrie,
+Sir Max Beerbohm,art by Sir Max Beerbohm,
+Sonia Delaunay,art by Sonia Delaunay,
+Stanley Donwood,art by Stanley Donwood,
+Stefan Gesell,art by Stefan Gesell,
+Stephanie Law,art by Stephanie Law,
+Stephen Gammell,art by Stephen Gammell,
+Steve Argyle,art by Steve Argyle,
+Steve Dillon,art by Steve Dillon,
+Steve Ditko,art by Steve Ditko,
+Steve McCurry,art by Steve McCurry,
+Storm Thorgerson,art by Storm Thorgerson,
+Stuart Davis,art by Stuart Davis,
+Syd Mead,art by Syd Mead,
+Sylvain Chomet,art by Sylvain Chomet,
+Taiyo Matsumoto,art by Taiyo Matsumoto,
+Takashi Murakami,art by Takashi Murakami,
+Takato Yamamoto,art by Takato Yamamoto,
+Takehiko Inoue,art by Takehiko Inoue,
+Taro Okamoto,art by Taro Okamoto,
+Tarsila do Amaral,art by Tarsila do Amaral,
+Tatsuro Kiuchi,art by Tatsuro Kiuchi,
+Ted Nasmith,art by Ted Nasmith,
+Terry O'Neill,art by Terry O'Neill,
+Terry Oakes,art by Terry Oakes,
+Tex Avery,art by Tex Avery,
+Theodor Seuss Geisel (dr. seuss),art by Theodor Seuss Geisel,
+Thomas Cole,art by Thomas Cole,
+Thomas Gainsborough,art by Thomas Gainsborough,
+Thomas Kinkade,art by Thomas Kinkade,
+Tibor Nagy,art by Tibor Nagy,
+Tillie Walden,art by Tillie Walden,
+Tim Burton,art by Tim Burton,
+Tim Doyle,art by Tim Doyle,
+Tim Hildebrandt,art by Tim Hildebrandt,
+Tim White,art by Tim White,
+Tivadar Csontvary Kosztka,art by Tivadar Csontvary Kosztka,
+Todd McFarlane,art by Todd McFarlane,
+Tom Bagshaw,art by Tom Bagshaw,
+Tom Lovell,art by Tom Lovell,
+Tom Thomson,art by Tom Thomson,
+Tom Whalen,art by Tom Whalen,
+Tomasz Alen Kopera,art by Tomasz Alen Kopera,
+Tomasz Jedruszek,art by Tomasz Jedruszek,
+Tomek Setowski,art by Tomek Setowski,
+Tomer Hanuka,art by Tomer Hanuka,
+Tomi Ungerer,art by Tomi Ungerer,
+Tomioka Tessai,art by Tomioka Tessai,
+Tommaso Dolabella,art by Tommaso Dolabella,
+Tommaso Masaccio,art by Tommaso Masaccio,
+Tommaso Redi,art by Tommaso Redi,
+Tomokazu Matsuyama,art by Tomokazu Matsuyama,
+Tomàs Barceló,art by Tomàs Barceló,
+Tony DiTerlizzi,art by Tony DiTerlizzi,
+Tove Jansson,art by Tove Jansson,
+Tsutomu Nihei,art by Tsutomu Nihei,
+Ub Iwerks,art by Ub Iwerks,
+Van Herpen,art by Van Herpen,
+Victo Ngai,art by Victo Ngai,
+Victor Brauner,art by Victor Brauner,
+Victor Moscoso,art by Victor Moscoso,
+Victor Ngai,art by Victor Ngai,
+Victor Vasarely,art by Victor Vasarely,
+Viktor Vasnetsov,art by Viktor Vasnetsov,
+Vilhelm Hammershoi,art by Vilhelm Hammershoi,
+Vilmos Zsigmond,art by Vilmos Zsigmond,
+Vincent van Gogh,art by Vincent van Gogh,
+Virgil Finlay,art by Virgil Finlay,
+Walt Disney,art by Walt Disney,
+Walter Crane,art by Walter Crane,
+Wassily Kandinsky,art by Wassily Kandinsky,
+Wayne Barlowe,art by Wayne Barlowe,
+Weegee,art by Weegee,
+Wes Anderson,art by Wes Anderson,
+Wifredo Lam,art by Wifredo Lam,
+Will Simpson,art by Will Simpson,
+William Blake,art by William Blake,
+William Gropper,art by William Gropper,
+William Henry Hunt,art by William Henry Hunt,
+William Hogarth,art by William Hogarth,
+William Morris,art by William Morris,
+William S Burroughs,art by William S Burroughs,
+William Stout,art by William Stout,
+William-Adolphe Bouguereau,art by William-Adolphe Bouguereau,
+Winslow Homer,art by Winslow Homer,
+Wong Kar-Wai,art by Wong Kar-Wai,
+Yaacov Agam,art by Yaacov Agam,
+Yayoi Kusama,art by Yayoi Kusama,
+Yoshitaka Amano,art by Yoshitaka Amano,
+Yousuf Karsh,art by Yousuf Karsh,
+Yuumei,art by Yuumei,
+Yves Klein,art by Yves Klein,
+Yves Tanguy,art by Yves Tanguy,
+Zack Snyder,art by Zack Snyder,
+Zaha Hadid,art by Zaha Hadid,
+Zdzislaw Beksinski,art by Zdzislaw Beksinski,
